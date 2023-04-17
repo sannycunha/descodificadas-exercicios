@@ -1,0 +1,27 @@
+    div {
+        display: inline-block;
+        border: 1px solid black;
+        width: 200px;
+        height: 200px;
+        background-color: red;
+        padding-left: 0px;
+        padding-right: 0px;
+             }
+        .quadrado{
+            border:red;
+            padding-left: 0px;
+            padding-right: 0px;
+        }     
+        .quadrado2{
+          background-color: rgb(0, 217, 255);
+          border:rgb(0, 217, 255);
+        }
+        .quadrado3{
+            background-color: green;
+            border:green;
+        }
+        .quadrado4{
+            background-color:yellow;
+            border:yellow;
+        }
+
